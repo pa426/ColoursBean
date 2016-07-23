@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+
+Name: coloursbean/ColoursBean.class
+Java-Bean: True
